@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 public class Penjumlahan
 {
@@ -9,31 +8,6 @@ public class Penjumlahan
         dynamic temp2 = b;
         dynamic temp3 = c;
         return temp1+temp2+temp3;
-    }
-}
-public class SimpleDataBase<T>
-{
-    private List<T> storedData;
-    private List<DateTime> inputDates;
-
-    public SimpleDataBase()
-    {
-        storedData = new List<T>();
-        inputDates = new List<DateTime>();
-    }
-
-    public void AddNewData(T newData)
-    {
-        storedData.Add(newData);
-        inputDates.Add(DateTime.UtcNow);
-    }
-
-    public void PrintAllData()
-    {
-        for (int i = 0; i < storedData.Count; i++)
-        {
-            Console.WriteLine($"Data {i + 1} berisi: {storedData[i]}, yang disimpan pada waktu UTC: {inputDates[i]}");
-        }
     }
 }
 
@@ -67,15 +41,5 @@ public class Program
                                             Convert.ChangeType(b, tipe_data),
                                             Convert.ChangeType(c, tipe_data));
         Console.WriteLine("Hasil penjumlahan tiga angka: " + hasil);
-
-        SimpleDataBase<int> db = new SimpleDataBase<int>();
-        db.AddNewData(13);
-        db.AddNewData(02);
-        db.AddNewData(21);
-        db.PrintAllData();
     }
 }
-
-
-
-
