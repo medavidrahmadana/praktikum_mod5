@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\bin\Debug\net6.0\MODUL5_1302213079.exe
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\bin\Debug\net6.0\MODUL5_1302213079.deps.json
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\bin\Debug\net6.0\MODUL5_1302213079.runtimeconfig.json
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\bin\Debug\net6.0\MODUL5_1302213079.dll
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\bin\Debug\net6.0\MODUL5_1302213079.pdb
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.dll
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\refint\MODUL5_1302213079.dll
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.pdb
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\MODUL5_1302213079.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Downloads\praktikum_mod5\MODUL5_1302213079\MODUL5_1302213079\obj\Debug\net6.0\ref\MODUL5_1302213079.dll
