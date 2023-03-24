@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\MODUL5_1302213079\\MODUL5_1302213079\\MODUL5_1302213079.csproj",
+      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\praktikum_mod5\\MODUL5_1302213079\\MODUL5_1302213079\\MODUL5_1302213079.csproj",
       "projectName": "MODUL5_1302213079",
-      "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\MODUL5_1302213079\\MODUL5_1302213079\\MODUL5_1302213079.csproj",
+      "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\praktikum_mod5\\MODUL5_1302213079\\MODUL5_1302213079\\MODUL5_1302213079.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\MODUL5_1302213079\\MODUL5_1302213079\\obj\\",
+      "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\praktikum_mod5\\MODUL5_1302213079\\MODUL5_1302213079\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
